@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
 <h3 align="center">A passionate Machine Learning Learner</h3>
 
 - 🔭 I’m currently working on **Detecting GAN-generated Images**
