@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" /> </p>
 
-- 🌱 I’m currently learning **Deploying ML Projects**
+- I'm a passionate ML engineer, who's interested in Computer Vision, MLOps, AI for Good, and Democratizing AI.
 
-- 🔭 I’m currently working on **Detecting GAN-generated Images**
+- 🌱 I’m currently learning **Deploying ML projects**
 
 - 📫 How to reach me **ahmedyassin@skiff.com**
 
