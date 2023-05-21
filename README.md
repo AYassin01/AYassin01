@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" /> </p>
 
-- I'm a passionate ML engineer, who's interested in Computer Vision, MLOps, AI for Good, and Democratizing AI. 
+- **I'm a passionate ML engineer, who's interested in Computer Vision, MLOps, AI for Good, and Democratizing AI.** 
 
-- 🌱 I’m currently learning **Deploying ML models and SQL**
+- 🌱 I’m currently learning Deploying ML models and SQL
 
 - 📫 How to reach me **ahmedyassin@skiff.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1sGmKBxNRLJKHAYEVXAgjqLkrzYzSSosWlOjK2ztK6DQ/edit?usp=sharing](https://docs.google.com/document/d/1sGmKBxNRLJKHAYEVXAgjqLkrzYzSSosWlOjK2ztK6DQ/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am good at cooking 😁**
+- ⚡ Fun fact I think I am good at cooking 😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
