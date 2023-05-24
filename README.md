@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **ahmedyassin@skiff.com**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1sGmKBxNRLJKHAYEVXAgjqLkrzYzSSosWlOjK2ztK6DQ/edit?usp=sharing](https://docs.google.com/document/d/1sGmKBxNRLJKHAYEVXAgjqLkrzYzSSosWlOjK2ztK6DQ/edit?usp=sharing)
+- 📄 Know about my experiences: [https://www.datascienceportfol.io/ahmedyassin]
 
 - ⚡ Fun fact: I think I am good at cooking 😁
 
