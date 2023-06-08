@@ -5,7 +5,7 @@
 
 - **I'm a passionate ML engineer, who's interested in Computer Vision, MLOps, AI for Good, and Democratizing AI.** 
 
-- 🌱 I’m currently learning: *Deep Learning for Computer Vision*
+- 🌱 I’m currently learning: **Deep Learning for Computer Vision**
 
 - 📫 How to reach me: **ahmedyassin@skiff.com**
 
