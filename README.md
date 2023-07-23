@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" /> </p>
 
-- **I'm a passionate ML engineer, who's interested in Computer Vision, MLOps, and Democratizing AI.** 
+- **I'm a passionate ML engineer, who's interested in Computer Vision, and MLOps** 
 
 - 🌱 I’m currently learning: **Deep Learning for Computer Vision**
 
-- 📫 How to reach me: **ahmedyassin@skiff.com**
+- 📫 How to reach me (fast📌⚡): **ahmedyassin@skiff.com**
 
 - 📄 Know about my experiences: [https://www.datascienceportfol.io/ahmedyassin]
 
