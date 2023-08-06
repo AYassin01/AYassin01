@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Deep Learning for Computer Vision**
 
-- 📫 How to reach me: **ahmedyassin@skiff.com**📌 
+- 📫 How to reach out to me: **ahmedyassin@skiff.com**📌 
 
 - 📄 Know about my experiences: [https://www.datascienceportfol.io/ahmedyassin]
 
