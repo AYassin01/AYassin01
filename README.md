@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning: **Deep Learning for Computer Vision**
 
-- 📫 How to reach out to me: **ahmedyassin@skiff.com**📌 
+- 📫 How to reach out to me: **ahmedyassin@skiff.com**📌
 
-- 📄 Know about my experiences: [https://www.datascienceportfol.io/ahmedyassin]
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://www.datascienceportfol.io/ahmedyassin))
 
 - ⚡ Fun fact: I think I am good at cooking 😁
   
