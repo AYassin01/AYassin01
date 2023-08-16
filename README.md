@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I think I am good at cooking 😁
   
-- [my Resume](https://drive.google.com/file/d/132bzVjCwXEp4eLRH-s_JdyrQw5OlMYJG/view?usp=sharing)📜
+- [my Resume](https://drive.google.com/file/d/132bzVjCwXEp4eLRH-s_JdyrQw5OlMYJG/view?usp=sharing) 📜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
