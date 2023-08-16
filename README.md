@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [https://www.datascienceportfol.io/ahmedyassin]
 
-- [my Resume]📜 (https://drive.google.com/file/d/132bzVjCwXEp4eLRH-s_JdyrQw5OlMYJG/view?usp=sharing)
+- [my Resume](https://drive.google.com/file/d/132bzVjCwXEp4eLRH-s_JdyrQw5OlMYJG/view?usp=sharing)
 
 - ⚡ Fun fact: I think I am good at cooking 😁
 
