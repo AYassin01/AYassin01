@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: I think I am good at cooking 😁
   
-- [**my Resume**](https://drive.google.com/file/d/132bzVjCwXEp4eLRH-s_JdyrQw5OlMYJG/view?usp=sharing) 📜
+- 📜 [**my Resume**](https://docs.google.com/document/d/1xemUEotwKyFreAJLvAXBh-2iHAxyE7BMqsBSU6zaaaQ/edit?usp=sharing) 
 
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/ahmedyassin)
 
