@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
-<h3 align="center">A Machine Learning Learner & practitioner || passionate about Computer Vision </h3>
+<h3 align="center">A Machine Learning Learner & Practitioner || Passionate About Computer Vision </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" /> </p>
 
