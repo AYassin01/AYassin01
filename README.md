@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Deep Learning for Computer Vision**
 
-- 📫 How to reach out to me: **ahmedyassin@skiff.com**📌
+- 📫 How to reach out to me: **ah.yassin01@gmail.com**📌
 
 - ⚡ Fun fact: I think I am good at cooking 😁
 
