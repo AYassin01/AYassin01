@@ -25,7 +25,7 @@ Programming & Frameworks:
 <p align="left">
 <a href="https://twitter.com/a_yassin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_yassin01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yassin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin01" height="30" width="40" /></a>
-<a href="https://medium.com/yassin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yassin01" height="30" width="40" /></a>
+<a href="https://yassin01.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yassin01" height="30" width="40" /></a>
 </p>
 
 
