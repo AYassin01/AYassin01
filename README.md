@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
-<h3 align="center">A Machine Learning Learner & Practitioner || Passionate About Computer Vision </h3>
+<h3 align="center">AI Engineer | Product Owner | Computer Vision & LLM Enthusiast
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" /> </p>
 
-- **🚀 🚀 AI Engineer | Product Owner | Computer Vision & MLOps Enthusiast**
 - I'm a passionate AI Engineer and Product Owner, specializing in computer vision, deep learning, and AI-driven product management. My expertise lies in bridging the gap between technical teams (data scientists, engineers) and business stakeholders, ensuring AI-powered solutions align with organizational goals, user needs, and technical feasibility.
 
 - 🌱 I’m currently learning: **How to build feasible  RAG apps**
