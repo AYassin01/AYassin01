@@ -26,6 +26,8 @@ Programming & Frameworks:
 </p>
 
 
-⚡ Fun fact: When I'm not working on AI, you'll probably find me experimenting with new recipes in the kitchen! 😁🍳
+⚡ Fun fact: When I’m not engineering AI, you’ll probably find me experimenting in the kitchen, attending global tech events, or learning a new language (yes, I'm working on my German 🇩🇪 and Mandarin 🇨🇳!).
+
+
 
 Let's connect and build something amazing together! 🚀
