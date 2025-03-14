@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" /> </p>
 
-- I'm a passionate AI Engineer and Product Owner, specializing in computer vision, deep learning, and AI-driven product management. My expertise lies in bridging the gap between technical teams (data scientists, engineers) and business stakeholders, ensuring AI-powered solutions align with organizational goals, user needs, and technical feasibility.
+- I'm a passionate AI Engineer and Product Owner, specializing in computer vision, deep learning, and AI-driven product management. My expertise lies in bridging the gap between technical teams (data scientists, ML engineers) and business stakeholders, ensuring AI-powered solutions align with business goals, and technical feasibility.
 
-- 🌱 I’m currently learning: **How to build feasible  RAG apps**
+- 🌱 I’m currently learning: **How to build feasible RAG apps**
 
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/ahmedyassin)
 
