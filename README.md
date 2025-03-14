@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
-<h3 align="center">AI Engineer | Product Owner | Computer Vision & LLM Enthusiast
- </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer+|+Product+Owner;Computer+Vision+&+LLM+Enthusiast;Let's+connect+and+build+something+amazing!&font=VT323&size=24&color=36BCF7&center=true&width=600)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" /> </p>
 
