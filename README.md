@@ -14,7 +14,7 @@
   - Linux, Bash scripting, Docker, AWS Cloud, CI/CD pipelines  
   - Best practices for automating and scaling AI/ML workflows
 
-[![Resume](https://www.self.so/yassin01)
+[![My Resume](https://www.self.so/yassin01)
 
 ---
 
