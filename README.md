@@ -14,7 +14,7 @@
   - Linux, Bash scripting, Docker, AWS Cloud, CI/CD pipelines  
   - Best practices for automating and scaling AI/ML workflows
 
-[![My Resume](https://www.self.so/yassin01)
+[My Resume](https://www.self.so/yassin01)
 
 ---
 
@@ -30,17 +30,7 @@
 
 ### 💡 **About Me**
 
-My journey began in ML engineering, where I developed and deployed computer vision solutions that improved quality control and automated processes, reducing processing time and costs by up to 30%. Now, I’m expanding my expertise to DevOps, focusing on designing efficient, automated, and scalable systems that bring AI to production.
-
----
-
-### 📌 **Featured Projects**
-- [Pin your most relevant repos here with brief descriptions]
-
----
-
-### 📝 **Latest Posts**
-- [Link to your Medium blog or recent articles]
+My journey began in ML engineering, where I developed and deployed computer vision solutions that improved quality control and automated processes, reducing processing time and costs by up to 30%. Now, I’m expanding my expertise to DevOps and MLOps, focusing on designing efficient, automated, and scalable systems that bring AI to production.
 
 ---
 
