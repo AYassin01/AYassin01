@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer+in+Training;AI/ML+Background;Bridging+AI+and+Cloud+Infrastructure;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=600)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+Engineer+in+Training;AI/ML+Background;Bridging+AI+and+Cloud+Infrastructure;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=600)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" />
 </p>
 
-- 🚀 **DevOps Engineer in Training** at AWS re/Start, building scalable, automated, and reliable cloud infrastructure.
+- 🚀 **Cloud Engineer in Training** at AWS re/Start, building scalable, automated, and reliable cloud infrastructure.
 - 🤖 **AI/ML Engineer** with hands-on experience in computer vision, deep learning, and deploying intelligent solutions.
 - 🛠️ I’m passionate about bridging the gap between AI-powered applications and robust DevOps practices.
 
