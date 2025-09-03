@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ahmed Yassin
+<h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Technical+Product+Manager;AI+%26+Cloud+Specialist;Bridging+Technical+Innovation+with+User+Needs;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=700)](https://git.io/typing-svg)
 
