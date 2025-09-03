@@ -1,99 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
+# Hi 👋, I'm Ahmed Yassin
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+Engineer+in+Training;AI/ML+Background;Bridging+AI+and+Cloud+Infrastructure;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=600)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Technical+Product+Manager;AI+%26+Cloud+Specialist;Bridging+Technical+Innovation+with+User+Needs;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=700)](https://git.io/typing-svg)
 
 <p align="left">
-
-  <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" />
-
+  <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" />
 </p>
 
+## 🚀 About Me
 
+**Technical Product Manager (AI & Cloud)** operating at the intersection of AI, cloud infrastructure, and user-centric design. My career began with deep engineering expertise, where I built and deployed the very AI solutions I now help to strategize and define.
 
-- 🚀 **Cloud Engineer in Training** at AWS re/Start, building scalable, automated, and reliable cloud infrastructure.
+- 🎯 **Technical Product Manager** with hands-on experience transitioning from AI Engineer to Product Owner
+- 🤖 **AI/ML Engineering Background** in computer vision, deep learning, and scalable ML deployments  
+- ☁️ **AWS Certified Cloud Practitioner** with expertise in containerization and MLOps
+- 🔄 **Hybrid Skill Set** - I understand the complexities of MLOps, Docker containerization, and building scalable AWS solutions
+- 📊 **Data-Driven Product Strategy** - I leverage technical credibility to have high-bandwidth conversations with engineers and translate complex technical capabilities into clear business value
 
-- 🤖 **AI/ML Engineer** with hands-on experience in computer vision, deep learning, and deploying intelligent solutions.
+## 💼 Recent Experience
 
-- 🛠️ I’m passionate about bridging the gap between AI-powered applications and robust DevOps practices.
+### DevisionX (1 year 3 months)
+**AI Engineer & Product Owner** | *April 2024 - November 2024*
+- 📈 **Product Strategy**: Spearheaded AI-driven solutions strategy, accelerating time-to-market by **20%**
+- 🎯 **Cross-functional Leadership**: Served as primary liaison between technical teams and business stakeholders
+- 🔧 **Technical Excellence**: Enhanced computer vision model accuracy by **25%** using YOLOv8 and EfficientNet
+- ⚡ **Process Optimization**: Automated CI/CD pipelines, reducing manual effort by **30%** and increasing release speed by **20%**
+- 💰 **Cost Optimization**: Leveraged data analysis to cut deployment costs by **30%**
 
+**Machine Learning Engineer** | *November 2023 - April 2024*
+- 🔨 **Platform Development**: Contributing to Tuba - A seamless platform to label, train, deploy and monitor AI Vision apps
 
+## 🛠️ Tech Stack
 
-- 🌱 **Currently learning:**  
+**Product & Strategy:**
+- Product Roadmapping | User Need Analysis | Technical Documentation | Cross-functional Collaboration
 
-  - Linux, Bash scripting, Docker, AWS Cloud, CI/CD pipelines  
+**AI/ML & Data:**
+- Python | PyTorch | TensorFlow | OpenCV | YOLOv8 | EfficientNet | Scikit-learn | Keras
 
-  - Best practices for automating and scaling AI/ML workflows
+**DevOps & Cloud:**
+- AWS | Docker | Linux | MLOps | CI/CD | Git | FastAPI | Flask
 
+**Databases:**
+- PostgreSQL | MongoDB
 
+## 🎓 Education & Certifications
 
-[My Resume](https://www.self.so/yassin01)
+**Education:**
+- 🎓 **Al-Azhar University** - Bachelor's in Systems and Computer Engineering (2016-2022)
+- 🤖 **ZAKA** - Machine Learning Specialization in AI (2023)
 
+**Certifications:**
+- ☁️ AWS Certified Cloud Practitioner
+- 🎯 AWS re/Start Graduate  
+- 🐍 Python for Computer Vision with OpenCV and Deep Learning
+- 🧠 AI Computer Vision Bootcamp
+- 📚 Advanced Learning Algorithms
 
+## 🎯 What I'm Looking For
 
----
+I'm seeking opportunities where I can leverage my hybrid skill set to lead innovative AI products from concept to launch, combining:
+- Deep technical understanding of AI/ML systems
+- Product strategy and roadmap development
+- Cross-functional team leadership
+- Cloud infrastructure and deployment expertise
 
-
-
-### 🛠️ **Tech Stack**
-
-
-
-**DevOps & Cloud:**  
-
-- AWS | Docker | Linux | Bash | CI/CD | Git | PostgreSQL | MongoDB
-
-
-
-**AI/ML & Data:**  
-
-- Python | PyTorch | TensorFlow | OpenCV | Scikit-learn | FastAPI | Flask | LangChain
-
-
-
----
-
-
-
-### 💡 **About Me**
-
-
-
-My journey began in ML engineering, where I developed and deployed computer vision solutions that improved quality control and automated processes, reducing processing time and costs by up to 30%. Now, I’m expanding my expertise to DevOps and MLOps, focusing on designing efficient, automated, and scalable systems that bring AI to production.
-
-
-
----
-
-
-
-### 🌍 **Connect with Me**
+## 🌐 Connect with Me
 
 <p align="left">
-
-  <a href="https://twitter.com/a_yassin01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_yassin01" height="30" width="40" /></a>
-
-  <a href="https://linkedin.com/in/yassin01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin01" height="30" width="40" /></a>
-
-  <a href="https://yassin01.medium.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yassin01" height="30" width="40" /></a>
-
+  <a href="https://linkedin.com/in/yassin01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin01" height="30" width="40" /></a>
+  <a href="https://yassin01.medium.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yassin01" height="30" width="40" /></a>
+  <a href="https://twitter.com/a_yassin01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_yassin01" height="30" width="40" /></a>
+  <a href="https://yassin01.com" target="blank">🌐 Personal Website</a>
+  <a href="mailto:ah.yassin01@gmail.com">✉️ Email</a>
 </p>
 
-
-
 ---
 
+⚡ **Fun fact:** When I'm not bridging the gap between technical innovation and user needs, I'm experimenting in the kitchen, attending tech events, or learning German 🇩🇪!
 
-
-⚡ **Fun fact:** When I’m not engineering systems, I’m experimenting in the kitchen, attending tech events, or learning German 🇩🇪 and Mandarin 🇨🇳.
-
-
-
----
-
-
-
-**Let’s connect and build something amazing together! 🚀**
+**Let's connect and build something amazing together! 🚀**
