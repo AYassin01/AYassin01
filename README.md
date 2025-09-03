@@ -43,18 +43,12 @@
 **Databases:**
 - PostgreSQL | MongoDB
 
-## 🎓 Education & Certifications
+## 🎓 Education 
 
 **Education:**
-- 🎓 **Al-Azhar University** - Bachelor's in Systems and Computer Engineering (2016-2022)
-- 🤖 **ZAKA** - Machine Learning Specialization in AI (2023)
+- 🎓 **Al-Azhar University** - Bachelor's in Systems and Computer Engineering (2022)
+- 🤖 **ZAKA** - AI Certification Program (2023)
 
-**Certifications:**
-- ☁️ AWS Certified Cloud Practitioner
-- 🎯 AWS re/Start Graduate  
-- 🐍 Python for Computer Vision with OpenCV and Deep Learning
-- 🧠 AI Computer Vision Bootcamp
-- 📚 Advanced Learning Algorithms
 
 ## 🎯 What I'm Looking For
 
@@ -68,8 +62,7 @@ I'm seeking opportunities where I can leverage my hybrid skill set to lead innov
 
 <p align="left">
   <a href="https://linkedin.com/in/yassin01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin01" height="30" width="40" /></a>
-  <a href="https://yassin01.medium.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yassin01" height="30" width="40" /></a>
-  <a href="https://twitter.com/a_yassin01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_yassin01" height="30" width="40" /></a>
+  <a href="https://twitter.com/a_yassin01" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="a_yassin01" height="30" width="40" /></a>
   <a href="https://yassin01.com" target="blank">🌐 Personal Website</a>
   <a href="mailto:ah.yassin01@gmail.com">✉️ Email</a>
 </p>
