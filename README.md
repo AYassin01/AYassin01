@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Technical+Product+Manager;AI+%26+Cloud+Specialist;Bridging+Technical+Innovation+with+User+Needs;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=700)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Technical+Product+Manager;AI+%26+Cloud+Specialist;Bridging+Technical+Innovation+with+User+Needs;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=700" alt="Typing SVG" />
+  </a>
+</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" />
 </p>
+
 
 ## 🚀 About Me
 
