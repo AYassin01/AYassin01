@@ -19,39 +19,6 @@
 - 🔄 **Hybrid Skill Set** - I understand the complexities of MLOps, Docker containerization, and building scalable AWS solutions
 - 📊 **Data-Driven Product Strategy** - I leverage technical credibility to have high-bandwidth conversations with engineers and translate complex technical capabilities into clear business value
 
-## 💼 Recent Experience
-
-### DevisionX (1 year 3 months)
-**AI Engineer & Product Owner** | *April 2024 - November 2024*
-- 📈 **Product Strategy**: Spearheaded AI-driven solutions strategy, accelerating time-to-market by **20%**
-- 🎯 **Cross-functional Leadership**: Served as primary liaison between technical teams and business stakeholders
-- 🔧 **Technical Excellence**: Enhanced computer vision model accuracy by **25%** using YOLOv8 and EfficientNet
-- ⚡ **Process Optimization**: Automated CI/CD pipelines, reducing manual effort by **30%** and increasing release speed by **20%**
-- 💰 **Cost Optimization**: Leveraged data analysis to cut deployment costs by **30%**
-
-**Machine Learning Engineer** | *November 2023 - April 2024*
-- 🔨 **Platform Development**: Contributing to Tuba - A seamless platform to label, train, deploy and monitor AI Vision apps
-
-## 🛠️ Tech Stack
-
-**Product & Strategy:**
-- Product Roadmapping | User Need Analysis | Technical Documentation | Cross-functional Collaboration
-
-**AI/ML & Data:**
-- Python | PyTorch | TensorFlow | OpenCV | YOLOv8 | EfficientNet | Scikit-learn | Keras
-
-**DevOps & Cloud:**
-- AWS | Docker | Linux | MLOps | CI/CD | Git | FastAPI | Flask
-
-**Databases:**
-- PostgreSQL | MongoDB
-
-## 🎓 Education 
-
-**Education:**
-- 🎓 **Al-Azhar University** - Bachelor's in Systems and Computer Engineering (2022)
-- 🤖 **ZAKA** - AI Certification Program (2023)
-
 
 ## 🎯 What I'm Looking For
 
@@ -71,7 +38,6 @@ I'm seeking opportunities where I can leverage my hybrid skill set to lead innov
 </p>
 
 ---
+Fun fact: When I'm not bridging the gap between technical innovation and user needs, I cook 🍪, attend product/tech events 👨‍💻, or learn Chinese!
 
-⚡ **Fun fact:** When I'm not bridging the gap between technical innovation and user needs, I'm experimenting in the kitchen, attending tech events, or learning German 🇩🇪!
-
-**Let's connect and build something amazing together! 🚀**
+**Let's connect and build amazing AI Products together! 🚀**
