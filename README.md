@@ -22,14 +22,6 @@ My background is a mix of **AI engineering, product ownership, and hands-on GTM 
 
 Before GTM, I was an **AI Product Owner & Engineer at DevisionX**, building computer-vision products with YOLOv8, EfficientNet, Docker, and AWS. That engineering foundation still shapes how I design and debug growth systems.
 
-## Public builds
-
-| Project | Why it's here |
-| --- | --- |
-| [**Swvl GTM Research Playbook**](https://github.com/AYassin01/swvl-gtm-research-playbook) | A team-built, reproducible GTM research workflow: ICP selection, buyer evidence, account scoring, tool routing (Clay / Crustdata / treg), Codex prompts, and executable evals. Built during GTMENA; **not a client engagement with Swvl**. |
-| [**Serverless Fruit Disease Detection**](https://github.com/AYassin01/aws-serverless-fruit-detection) | A deployable AI backend using Amazon Bedrock, Lambda, API Gateway, S3, Python, and AWS SAM. |
-| [**Polly**](https://github.com/AYassin01/alx-polly) | A full-stack polling app with Next.js, TypeScript, Supabase, and real-time results. |
-
 ## How I think about GTM systems
 
 `Signals → Research & enrichment → ICP scoring → Routing & outreach → CRM → Measurement`
