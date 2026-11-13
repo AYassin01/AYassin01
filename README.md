@@ -1,43 +1,52 @@
-<h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Technical+Product+Manager;AI+%26+Cloud+Specialist;Bridging+Technical+Innovation+with+User+Needs;Let's+connect!&font=VT323&size=24&color=36BCF7&center=true&width=700" alt="Typing SVG" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayassin01&label=Profile%20views&color=0e75b6&style=flat" alt="ayassin01" />
-</p>
+# Ahmed Yassin
 
+**GTM Engineer · Builder PM · AI & Cloud Engineer**
 
-## 🚀 About Me
+I build the systems behind repeatable growth — from finding the right accounts and scoring intent to connecting data, automating handoffs, and measuring what happens next.
 
-**Technical Product Manager (AI & Cloud)** operating at the intersection of AI, cloud infrastructure, and user-centric design. My career began with deep engineering expertise, where I built and deployed the very AI solutions I now help to strategize and define.
+My background is a mix of **AI engineering, product ownership, and hands-on GTM operations**. I like owning the messy middle between a business problem and a working system.
 
-- 🎯 **Technical Product Manager** with hands-on experience transitioning from AI Engineer to Product Owner
-- 🤖 **AI/ML Engineering Background** in computer vision, deep learning, and scalable ML deployments  
-- ☁️ **AWS Certified Cloud Practitioner** with expertise in containerization and MLOps
-- 🔄 **Hybrid Skill Set** - I understand the complexities of MLOps, Docker containerization, and building scalable AWS solutions
-- 📊 **Data-Driven Product Strategy** - I leverage technical credibility to have high-bandwidth conversations with engineers and translate complex technical capabilities into clear business value
+📍 Cairo, Egypt · Open to **remote GTM Engineering, AI Growth, and Revenue Systems** roles
 
+[**Portfolio**](https://ahmed-yassin-portfolio.web.app) · [LinkedIn](https://www.linkedin.com/in/yassin01/) · [Book a discovery call](https://calendar.app.google/e8hdDkeAQoAZZwT97) · [Email](mailto:ah.yassin01@gmail.com)
 
-## 🎯 What I'm Looking For
+## What I've shipped
 
-I'm seeking opportunities where I can leverage my hybrid skill set to lead innovative AI products from concept to launch, combining:
-- Deep technical understanding of AI/ML systems
-- Product strategy and roadmap development
-- Cross-functional team leadership
-- Cloud infrastructure and deployment expertise
+**At nsave (Growth × Engineering):**
 
-## 🌐 Connect with Me
+- **0 → 1 outbound infrastructure:** built the company's first B2B cold-outbound setup with Clay, Instantly, and n8n.
+- **Data → qualified pipeline:** built ICP-scoring and enrichment flows covering **2,000+ Egyptian tech companies** and **1,400+ developer contacts**.
+- **Connected GTM systems:** built **20+ production n8n workflows** across lead generation, CRM sync, lifecycle communication, and monitoring. Connected outreach and onboarding signals into Attio for funnel visibility.
+- **Signals → action:** automated social listening across Reddit, X, app reviews, Instagram, and Facebook, replacing **2–3 hours of daily manual searching**.
+- **Research with guardrails:** built a **42-node competitor-intelligence workflow** that turns source-verified findings into content ideas while checking claims and voice.
 
-<p align="left">
-  <a href="https://linkedin.com/in/yassin01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin01" height="30" width="40" /></a>
-  <a href="https://twitter.com/a_yassin01" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="a_yassin01" height="30" width="40" /></a>
-  <a href="https://yassin01.com" target="blank">🌐 Personal Website</a>
-  <a href="mailto:ah.yassin01@gmail.com">✉️ Email</a>
-</p>
+Before GTM, I was an **AI Product Owner & Engineer at DevisionX**, building computer-vision products with YOLOv8, EfficientNet, Docker, and AWS. That engineering foundation still shapes how I design and debug growth systems.
 
----
-Fun fact: When I'm not bridging the gap between technical innovation and user needs, I cook 🍪, attend product/tech events 👨‍💻, or learn Chinese!
+## Public builds
 
-**Let's connect and build amazing AI Products together! 🚀**
+| Project | Why it's here |
+| --- | --- |
+| [**Swvl GTM Research Playbook**](https://github.com/AYassin01/swvl-gtm-research-playbook) | A team-built, reproducible GTM research workflow: ICP selection, buyer evidence, account scoring, tool routing (Clay / Crustdata / treg), Codex prompts, and executable evals. Built during GTMENA; **not a client engagement with Swvl**. |
+| [**Serverless Fruit Disease Detection**](https://github.com/AYassin01/aws-serverless-fruit-detection) | A deployable AI backend using Amazon Bedrock, Lambda, API Gateway, S3, Python, and AWS SAM. |
+| [**Polly**](https://github.com/AYassin01/alx-polly) | A full-stack polling app with Next.js, TypeScript, Supabase, and real-time results. |
+
+## How I think about GTM systems
+
+`Signals → Research & enrichment → ICP scoring → Routing & outreach → CRM → Measurement`
+
+I care about **source quality, cost-aware tool choices, clear decision rules, evals, and human review** — not just getting an automation to run once.
+
+**Tools I build with**
+
+- **GTM:** Clay, n8n, Instantly, Attio, SalesRobot, HubSpot
+- **AI & data:** Python, LLMs, APIs, webhooks, MCP-connected tools, evaluation workflows
+- **Engineering & cloud:** AWS (Bedrock, Lambda, API Gateway, S3), Docker, Git, CI/CD
+
+## Beyond the builds
+
+- **GTMENA Cohort 01** — Clay Scholarship recipient, learning and building alongside other GTM engineers.
+- **AI Tinkerers Cairo** — helping organize events and connect local builders.
+
+If you're building a GTM team and need someone who can **understand the revenue problem, design the system, and ship it**, I'd love to talk.
+
+[**See my work**](https://ahmed-yassin-portfolio.web.app) · [**Let's connect**](https://www.linkedin.com/in/yassin01/)
